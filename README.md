@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 👯 I’m looking to be part of an open source community 
-- 🥅 2022 Goals: Learn more about smart contract in web3
+- 🥅 2023 Goals: Learn more about backend programming
 - ⚡ Fun fact: I love to play games
 
 ### Connect with me:
