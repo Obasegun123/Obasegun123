@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Obasegun123#gh-light-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/Obasegun123)
 [![website](./img/twitter-dark.svg)](https://twitter.com/Obasegun123#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/obasootosegun#gh-light-mode-only)
