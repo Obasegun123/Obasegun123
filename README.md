@@ -9,29 +9,8 @@
 
 ### Connect with me:
 
-[![website](./img/twitter-light.svg)](https://twitter.com/Obasegun123)
-[![website](./img/twitter-dark.svg)](https://twitter.com/Obasegun123#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/obasootosegun#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/obasootosegun#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://www.instagram.com/obasootosegun#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/obasootosegunr#gh-dark-mode-only)
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
+### Find me at:
+<a href="https://www.linkedin.com/in/obasootosegun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Segun Obasooto" height="30" width="40" /></a>
 
 
 ### Languages and Tools:
@@ -50,7 +29,4 @@
 <br />
 <br />
 
-[twitter]: https://twitter.com/Obasegun123
-[youtube]: https://www.youtube.com/channel/UC39e73lA1Cp_Ql-_GAMRHCQ/playlists
-[instagram]: https://instagram.com/obasootosegun
-[linkedin]: https://linkedin.com/in/obasootosegun
+
