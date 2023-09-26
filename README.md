@@ -2,7 +2,7 @@
 
 ## I'm a Backend Developer and IT support Specialist
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently enjoying a nice ride with the .NetCore Framework
 - 👯 I’m looking to be part of an open source community 
 - 🥅 2023 Goals: Learn more about backend programming
 - ⚡ Fun fact: I love to play games
