@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently enjoying a nice ride with the .NetCore Framework
 - 👯 I’m looking to be part of an open source community 
-- 🥅 2023 Goals: Learn more about backend programming
+- 🥅 2024 Goals: Learn more about AI
 - ⚡ Fun fact: I love to play games
 
 ### Find me at:
