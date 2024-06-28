@@ -7,9 +7,37 @@
 - 🥅 2024 Goals: Learn more about AI
 - ⚡ Fun fact: I love to play games
 
+## Skills and Interests
+
+**Backend Development:**
+
+* .NET Core (C#)
+* ASP.NET
+* Web APIs
+* Database Management (MySQL, MongoDB)
+
+**IT Support:**
+
+* Troubleshooting
+* Hardware and Software Support
+* User Support
+
+**Soft Skills:**
+
+* Problem-solving
+* Communication
+* Teamwork
+* Adaptability
+
+**Badges:** 
+
+
 ### Find me at:
 <a href="https://www.linkedin.com/in/obasootosegun/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Segun Obasooto" height="30" width="40" /></a>
 
+## Open Source
+
+I'm actively looking to contribute to open-source projects! I'm particularly interested in areas related to (mention your areas of interest). If you have any recommendations or projects that might be a good fit, feel free to reach out!
 
 ### Languages and Tools:
 
