@@ -12,7 +12,9 @@
 **Backend Development:**
 
 * .NET Core (C#)
+* Python
 * ASP.NET
+* Django
 * Web APIs
 * Database Management (MySQL, MongoDB)
 
