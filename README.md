@@ -2,7 +2,7 @@
 
 ## I'm a Backend Developer and IT support Specialist
 
-- 🌱 I’m currently enjoying a nice ride with the .NetCore Framework
+- 🌱 I’m currently enjoying a nice ride with the .NetCore and Django Framework
 - 👯 I’m looking to be part of an open source community 
 - 🥅 2024 Goals: Learn more about AI
 - ⚡ Fun fact: I love to play games
