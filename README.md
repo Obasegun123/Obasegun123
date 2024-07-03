@@ -7,6 +7,8 @@
 - 🥅 2024 Goals: Learn more about AI
 - ⚡ Fun fact: I love to read books
 
+## 100 days of building different things in different languages
+
 ## Skills and Interests
 
 **Backend Development:**
