@@ -8,6 +8,7 @@
 - ⚡ Fun fact: I love to read books
 
 ## 100 days of building different things in different languages
+- Not necessaraily owner of the project but i will document or explain each of the steps of the code with a comment.
 
 ## Skills and Interests
 
