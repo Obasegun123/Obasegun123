@@ -42,7 +42,7 @@
 
 ## Open Source
 
-I'm actively looking to contribute to open-source projects! I'm particularly interested in areas related to (mention your areas of interest). If you have any recommendations or projects that might be a good fit, feel free to reach out!
+I'm actively looking to contribute to open-source projects! I'm particularly interested in areas related to the listed areas of interest). If you have any recommendations or projects that might be a good fit, feel free to reach out!
 
 ### Languages and Tools:
 
