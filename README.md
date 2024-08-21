@@ -1,6 +1,6 @@
 # Hi there, I'm Segun
 
-## I'm a Backend Developer and IT support Specialist
+## I'm a Software Developer and IT support Specialist
 
 - 🌱 I’m currently enjoying a nice ride with the .NetCore and Django Framework
 - 👯 I’m looking to be part of an open source community 
