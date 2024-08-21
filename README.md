@@ -20,6 +20,8 @@
 * Django
 * Web APIs
 * Database Management (MySQL, MongoDB)
+* React
+* Next Js
 
 **IT Support:**
 
