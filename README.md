@@ -8,9 +8,7 @@ Passionate about building robust backend systems and solving complex problems. C
   <a href="https://www.linkedin.com/in/obasootosegun/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+ 
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
@@ -39,6 +37,7 @@ Passionate about building robust backend systems and solving complex problems. C
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ### Cloud & DevOps
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -47,30 +46,16 @@ Passionate about building robust backend systems and solving complex problems. C
 
 ---
 
-## 🌟 Featured Projects
 
-### [Project Name 1](link)
-Short description of what this project does and technologies used
-
-### [Project Name 2](link)
-Short description of what this project does and technologies used
-
----
-
-## 📌 100 Days of Code Challenge
-
-I'm documenting my journey of building different projects across various technologies:
-
-- **Day 1-30**: .NET Core Web APIs with Azure integration
-- **Day 31-60**: Django applications with React frontends
-- **Day 61-90**: Cloud-native applications with AWS/Azure
-- **Day 91-100**: AI/ML experiments with Python
 
 [View Progress →](#) (link to your blog/twitter thread)
 
 ---
 
 ## 📈 GitHub Stats
+
+![Profile Views](https://komarev.com/ghpvc/?username=obasegun123&color=blue&style=flat-square)
+![GitHub Stars](https://img.shields.io/github/stars/obasegun123?label=Stars&style=social)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=obasegun123&show_icons=true&theme=radical" alt="GitHub Stats"/>
@@ -83,7 +68,7 @@ I'm documenting my journey of building different projects across various technol
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/obasootosegun/)
 
-- 🐦 Twitter: [@yourhandle](https://twitter.com/obasegun123)
+- 🐦 Twitter: [@obasegun123](https://twitter.com/obasegun123)
 
 Always open to interesting discussions, collaborations, or just saying hi! 😊
 
