@@ -48,7 +48,6 @@ Passionate about building robust backend systems and solving complex problems. C
 
 
 
-[View Progress →](#) (link to your blog/twitter thread)
 
 ---
 
@@ -69,6 +68,7 @@ Passionate about building robust backend systems and solving complex problems. C
 - 💼 [LinkedIn](https://www.linkedin.com/in/obasootosegun/)
 
 - 🐦 Twitter: [@obasegun123](https://twitter.com/obasegun123)
+- [![wakatime](https://wakatime.com/badge/user/92bb4c9d-12f0-49ac-aac2-180d8ec290f2.svg)](https://wakatime.com/@92bb4c9d-12f0-49ac-aac2-180d8ec290f2)
 
 Always open to interesting discussions, collaborations, or just saying hi! 😊
 
