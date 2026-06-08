@@ -1,4 +1,4 @@
-# Hello World! 👋 I'm Segun Obasooto
+# Hello World! 👋
 
 **Software Developer | Cloud Engineer | IT Support Specialist**
 
